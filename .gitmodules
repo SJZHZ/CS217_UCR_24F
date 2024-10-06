@@ -1,0 +1,6 @@
+[submodule "UCR_CS217_24F"]
+	path = UCR_CS217_24F
+	url = git@github.com:SJZHZ/UCR_CS217_24F.git
+[submodule "matrix-addition-SJZHZ"]
+	path = matrix-addition-SJZHZ
+	url = git@github.com:UCR-CSEE217/matrix-addition-SJZHZ.git
