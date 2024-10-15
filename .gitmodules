@@ -4,3 +4,6 @@
 [submodule "matrix-addition-SJZHZ"]
 	path = matrix-addition-SJZHZ
 	url = git@github.com:UCR-CSEE217/matrix-addition-SJZHZ.git
+[submodule "reduction-SJZHZ"]
+	path = reduction-SJZHZ
+	url = git@github.com:UCR-CSEE217/reduction-SJZHZ.git
