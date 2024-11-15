@@ -7,3 +7,6 @@
 [submodule "reduction-SJZHZ"]
 	path = reduction-SJZHZ
 	url = git@github.com:UCR-CSEE217/reduction-SJZHZ.git
+[submodule "histogram-SJZHZ"]
+	path = histogram-SJZHZ
+	url = git@github.com:UCR-CSEE217/histogram-SJZHZ.git
