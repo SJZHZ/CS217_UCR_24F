@@ -10,3 +10,6 @@
 [submodule "histogram-SJZHZ"]
 	path = histogram-SJZHZ
 	url = git@github.com:UCR-CSEE217/histogram-SJZHZ.git
+[submodule "matrix-multiply-SJZHZ"]
+	path = matrix-multiply-SJZHZ
+	url = git@github.com:UCR-CSEE217/matrix-multiply-SJZHZ.git
