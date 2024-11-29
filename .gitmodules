@@ -13,3 +13,6 @@
 [submodule "matrix-multiply-SJZHZ"]
 	path = matrix-multiply-SJZHZ
 	url = git@github.com:UCR-CSEE217/matrix-multiply-SJZHZ.git
+[submodule "numba-stream-SJZHZ"]
+	path = numba-stream-SJZHZ
+	url = git@github.com:UCR-CSEE217/numba-stream-SJZHZ.git
